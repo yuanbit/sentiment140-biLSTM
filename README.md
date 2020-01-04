@@ -1,1 +1,1 @@
-A deep learning model built using PyTorch and TorchText to detect sentiments of tweets using a subset of the sentiment140 dataset.
+A deep learning model built using PyTorch and TorchText to detect sentiments of tweets using a subset of the sentiment140 dataset. The model uses pre-trained GloVe embeddings to build the vocabulary and 2 layers of biLSTM.
